@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+FlareSolverr démarre un serveur proxy qui attend les requêtes utilisateur en état d'inactivité, consommant peu de ressources. Lorsqu'une requête arrive, il utilise un navigateur Chromium intégré pour ouvrir l'URL avec les paramètres fournis et attend que le défi Cloudflare soit résolu (ou que le délai expire). Le code HTML et les cookies sont renvoyés à l'utilisateur, et ces cookies peuvent être utilisés pour contourner Cloudflare avec d'autres clients HTTP.
