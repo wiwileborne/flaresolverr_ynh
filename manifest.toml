@@ -82,5 +82,6 @@ ram.runtime = "512M"
         "libpango-1.0-0",
         "libcairo2",
         "libasound2",
-        "libnss3"
+        "libnss3",
+        "xvfb"
     ]
