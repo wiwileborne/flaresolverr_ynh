@@ -25,7 +25,7 @@ FlareSolverr est un serveur proxy permettant de contourner les protections Cloud
 - Faible consommation de ressources au repos
 - Navigateur Chromium headless inclus
 
-**Version incluse :** 3.4.6~ynh1
+**Version incluse :** 3.3.21~ynh1
 
 ## Capture d'écran
 

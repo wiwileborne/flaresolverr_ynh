@@ -25,7 +25,7 @@ FlareSolverr is a proxy server to bypass Cloudflare and DDoS-GUARD protection. I
 - Low resource usage when idle
 - Headless Chromium browser included
 
-**Shipped version:** 3.4.6~ynh1
+**Shipped version:** 3.3.21~ynh1
 
 ## Screenshot
 
